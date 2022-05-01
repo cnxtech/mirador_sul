@@ -43,7 +43,7 @@ end
 
 group :test, :development do
   # Use Puma as the app server
-  gem 'puma', '~> 3.0'
+  gem 'puma', '~> 4.3'
 
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
